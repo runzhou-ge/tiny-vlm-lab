@@ -1,0 +1,17 @@
+[
+  {
+    "image": "example.jpg",
+    "question": "What color is the shape?",
+    "answer": "Red."
+  },
+  {
+    "image": "example.jpg",
+    "question": "What is in the image?",
+    "answer": "A red circle."
+  },
+  {
+    "image": "example.jpg",
+    "question": "Describe the image.",
+    "answer": "A simple red circle on a white background."
+  }
+]
